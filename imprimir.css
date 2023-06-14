@@ -1,0 +1,20 @@
+/* Estilos de impresión */
+@media print {
+    /* Agrega aquí los estilos específicos para la impresión */
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 11px;
+      color: rgb(10, 10, 10);
+      border: solid 1px rgb(0, 0, 0);
+      width: 1000px;
+      padding: 15px 15px 15px 15px;
+      
+      
+    }
+    table {
+      }
+    /* Agrega más estilos según tus necesidades */
+  }
+  
+
+  
